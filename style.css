@@ -1,0 +1,96 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #383838;
+    color: #fff;
+    margin: 0px;
+    padding: 0;
+    box-sizing: 800px;
+}
+
+header {
+    background-color: #f9972a;
+    color: #190707;
+    padding: 20px;
+}
+
+nav {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+figure {
+    margin-bottom: 0px;
+}
+
+.navigation-button {
+    text-decoration: none;
+    color: #1a0505;
+    background-color: rgb(212, 159, 243);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: 2px 2px 2px #111111bc;
+    border: solid 2px #110808;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.navigation-button:hover {
+    background-color: #d17f24;
+}
+
+.content-box {
+    background-color: #000000;
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    max-width: 1000px; 
+    margin: auto;
+    text-align: left;
+}
+
+.content-box p {
+    margin-bottom: 20px;
+}
+
+#imagem2 {
+    width: 1080px;
+}
+
+#imagem3 {
+    width: 1080px;
+}
+
+#imagem4 {
+    width: 1080px;
+}
+
+#imagem5 {
+    width: 1080px;
+}
+
+#video {
+    text-align: center;
+}
+
+.textoJustificado {
+    text-align: justify;
+}
+
+.video {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
